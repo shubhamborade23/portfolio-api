@@ -26,24 +26,6 @@
       "designation": "Software Engineer ||",
       "projects": [
         {
-          "id": "sfcc",
-          "projectTitle": "Salesforce B2C Commerce Cloud",
-          "projectDuration": "Aug 21 - Dec 2023",
-          "ProjectNames": [
-            "Aerin",
-            "Pet Supermarket"
-          ],
-          "projectWork": [
-            "Developed a variety of reusable page designer components that can be utilized across all PD pages. Additionally, created generic PLP, PDP, Header, and Footer components.",
-            "Handled the configuration of promotions and campaigns, providing assistance to the merchant during the setup process.",
-            "Successfully integrated Apple Pay and tailored the payment sheet to accommodate multi-shipment details.",
-            "Engaged in team collaboration to identify client requirements, review project progress, and strategize the implementation approach.",
-            "Installed the Klevu (Smart search engine) cartridge and seamlessly integrated it with the storefront."
-          ],
-          "role": "SFCC Developer",
-          "domain": "E-Commerce"
-        },
-        {
           "id": "shopify",
           "projectTitle": "Shopify",
           "projectDuration": "Feb 21 - Aug 21",
@@ -60,6 +42,24 @@
             "Built a Shopify store from the ground up, accessible at apparooz.com."
           ],
           "role": "UI/UX Developer",
+          "domain": "E-Commerce"
+        },
+        {
+          "id": "sfcc",
+          "projectTitle": "Salesforce B2C Commerce Cloud",
+          "projectDuration": "Aug 21 - Dec 2023",
+          "ProjectNames": [
+            "Aerin",
+            "Pet Supermarket"
+          ],
+          "projectWork": [
+            "Developed a variety of reusable page designer components that can be utilized across all PD pages. Additionally, created generic PLP, PDP, Header, and Footer components.",
+            "Handled the configuration of promotions and campaigns, providing assistance to the merchant during the setup process.",
+            "Successfully integrated Apple Pay and tailored the payment sheet to accommodate multi-shipment details.",
+            "Engaged in team collaboration to identify client requirements, review project progress, and strategize the implementation approach.",
+            "Installed the Klevu (Smart search engine) cartridge and seamlessly integrated it with the storefront."
+          ],
+          "role": "SFCC Developer",
           "domain": "E-Commerce"
         }
       ]

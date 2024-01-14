@@ -9,38 +9,31 @@
     "phone": "7506202934",
     "location": "Maharashtra, Mumbai - 400017"
   },
+  "workSummery": {
+    "rolesAndResponsibilities": [
+      "Proficient understanding of both frontend and backend workflows and operations.",
+      "Comprehensive grasp of SFCC objects, classes, documentation comprehension, and Checkout flow, among others.",
+      "Extensive expertise in MVC structure, AJAX requests, server- side forms rendering, ISML, JSON, Routes, API, Einstein, and related concepts.",
+      "Experience includes working with service frameworks and implementing Vimeo, Ordergroove, and other similar solutions.",
+      "Managed payment gateways, including Cybersource, and successfully implemented various payment methods like Apple Pay, ZIP, PayPal, and Credit Card.",
+      "Developed and repurposed content slots and assets, effectively rendering dynamic content across various pages."
+    ]
+  },
   "workExperience": [
     {
       "companyName": "Apexon",
-      "duration": "feb 21 - present",
-      "designation": "Software Engineer",
-      "rolesAndResponsibilities": [
-        "Proficient understanding of both frontend and backend workflows and operations.",
-        "Comprehensive grasp of SFCC objects, classes, documentation comprehension, and Checkout flow, among others.",
-        "Extensive expertise in MVC structure, AJAX requests, server- side forms rendering, ISML, JSON, Routes, API, Einstein, and related concepts.",
-        "Experience includes working with service frameworks and implementing Vimeo, Ordergroove, and other similar solutions.",
-        "Managed payment gateways, including Cybersource, and successfully implemented various payment methods like Apple Pay, ZIP, PayPal, and Credit Card.",
-        "Developed and repurposed content slots and assets, effectively rendering dynamic content across various pages.",
-        "Installed the Klevu (Smart search engine) cartridge and seamlessly integrated it with the storefront."
-      ],
+      "duration": "Feb 21 - Dec 2023",
+      "designation": "Software Engineer ||",
       "projects": [
         {
-          "id": "sfcc",
-          "projectTitle": "Salesforce B2C commerce cloud (E-Commerce Platform)",
-          "projectDuration": "Aug 21 - present",
-          "projectWork": [
-            "Developed a variety of reusable page designer components that can be utilized across all PD pages. Additionally, created generic PLP, PDP, Header, and Footer components.",
-            "Handled the configuration of promotions and campaigns, providing assistance to the merchant during the setup process.",
-            "Successfully integrated Apple Pay and tailored the payment sheet to accommodate multi-shipment details.",
-            "Engaged in team collaboration to identify client requirements, review project progress, and strategize the implementation approach."
-          ],
-          "role": "Full stack developer",
-          "domain": "E-Commerce"
-        },
-        {
           "id": "shopify",
-          "projectTitle": "Shopify (E-Commerce Platform)",
+          "projectTitle": "Shopify",
           "projectDuration": "Feb 21 - Aug 21",
+          "ProjectNames": [
+            "Approze",
+            "Bikeroo",
+            "Coffee Gator etc."
+          ],
           "projectWork": [
             "Proficient understanding of Shopify objects and Liquid templates.",
             "Utilized the Shopify page builder to create both static and dynamic pages. Expertly managed various API requests, retrieving and manipulating data as needed.",
@@ -48,7 +41,49 @@
             "Executed functional implementations on the product, collection, cart, and checkout pages, while also overseeing UI-related tasks.",
             "Built a Shopify store from the ground up, accessible at apparooz.com."
           ],
-          "role": "Jr. UI Developer",
+          "role": "UI/UX Developer",
+          "domain": "E-Commerce"
+        },
+        {
+          "id": "sfcc",
+          "projectTitle": "Salesforce B2C Commerce Cloud",
+          "projectDuration": "Aug 21 - Dec 2023",
+          "ProjectNames": [
+            "Aerin",
+            "Pet Supermarket"
+          ],
+          "projectWork": [
+            "Developed a variety of reusable page designer components that can be utilized across all PD pages. Additionally, created generic PLP, PDP, Header, and Footer components.",
+            "Handled the configuration of promotions and campaigns, providing assistance to the merchant during the setup process.",
+            "Successfully integrated Apple Pay and tailored the payment sheet to accommodate multi-shipment details.",
+            "Engaged in team collaboration to identify client requirements, review project progress, and strategize the implementation approach.",
+            "Installed the Klevu (Smart search engine) cartridge and seamlessly integrated it with the storefront."
+          ],
+          "role": "SFCC Developer",
+          "domain": "E-Commerce"
+        }
+      ]
+    },
+    {
+      "companyName": "Techouts",
+      "duration": "Jan 24 - present",
+      "designation": "Software Engineer | A",
+      "projects": [
+        {
+          "id": "sfcc",
+          "projectTitle": "Salesforce B2C Commerce Cloud",
+          "projectDuration": "Jan 24 - present",
+          "ProjectNames": [
+            "Titan - IRTH",
+            "Titan - SKINN"
+          ],
+          "projectWork": [
+            "Developed PLP custom price range range slider which enables good customer UI experience.",
+            "Implemeted compare functionality on the PLP page to allow comparison between multiple products from various categories which helps customer to buy suitable product",
+            "Services for the address suggestions on the postal code which helps user to select sub-address efficienty.",
+            "Engaged in team collaboration to identify client requirements, review project progress, and strategize the implementation approach."
+          ],
+          "role": "SFCC Developer",
           "domain": "E-Commerce"
         }
       ]
@@ -79,7 +114,9 @@
     "companyName": "3HDMedia Company, Prabhadevi, Mumbai 400025.",
     "workExperience": "Microsoft SQL Server Management Studio used to create .srt subtitle generation & integration procedure for any video format. Developed website templates (HTML/CSS/PHP) uploaded via FileZilla. Enabled offline-to-online MySQL DB connectivity."
   },
-  "certifications": ["Salesforce B2C Commerce Cloud (year - 2023)"],
+  "certifications": [
+    "Salesforce B2C Commerce Cloud (year - 2023)"
+  ],
   "education": [
     {
       "collageName": "PVPPCOE",
@@ -101,6 +138,17 @@
     "Marathi (professional)",
     "Hindi (professional)"
   ],
-  "interests": ["Outdoor Sports", "Watchinng movies & series", "Video Gaming"],
-  "softSkills": ["Time Management", "Independant work", "Flexibility", "Research", "Communication", "Work Ownership"]
+  "interests": [
+    "Outdoor Sports",
+    "Watchinng movies & series",
+    "Video Gaming"
+  ],
+  "softSkills": [
+    "Time Management",
+    "Independant work",
+    "Flexibility",
+    "Research",
+    "Communication",
+    "Work Ownership"
+  ]
 }
