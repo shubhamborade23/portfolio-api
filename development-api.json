@@ -27,8 +27,8 @@
       "projects": [
         {
           "id": "sfcc",
-          "projectTitle": "Salesforce B2C commerce cloud (E-Commerce Platform)",
-          "projectDuration": "Aug 21 - present",
+          "projectTitle": "Salesforce B2C Commerce Cloud",
+          "projectDuration": "Aug 21 - Dec 2023",
           "ProjectNames": [
             "Aerin",
             "Pet Supermarket"
@@ -40,17 +40,17 @@
             "Engaged in team collaboration to identify client requirements, review project progress, and strategize the implementation approach.",
             "Installed the Klevu (Smart search engine) cartridge and seamlessly integrated it with the storefront."
           ],
-          "role": "Full stack developer",
+          "role": "SFCC Developer",
           "domain": "E-Commerce"
         },
         {
           "id": "shopify",
-          "projectTitle": "Shopify (E-Commerce Platform)",
+          "projectTitle": "Shopify",
           "projectDuration": "Feb 21 - Aug 21",
           "ProjectNames": [
             "Approze",
             "Bikeroo",
-            "Coffee Gator and other stores"
+            "Coffee Gator etc."
           ],
           "projectWork": [
             "Proficient understanding of Shopify objects and Liquid templates.",
@@ -59,7 +59,7 @@
             "Executed functional implementations on the product, collection, cart, and checkout pages, while also overseeing UI-related tasks.",
             "Built a Shopify store from the ground up, accessible at apparooz.com."
           ],
-          "role": "Jr. UI Developer",
+          "role": "UI/UX Developer",
           "domain": "E-Commerce"
         }
       ]
@@ -71,7 +71,7 @@
       "projects": [
         {
           "id": "sfcc",
-          "projectTitle": "Salesforce B2C commerce cloud (E-Commerce Platform)",
+          "projectTitle": "Salesforce B2C Commerce Cloud",
           "projectDuration": "Jan 24 - present",
           "ProjectNames": [
             "Titan - IRTH",
@@ -83,7 +83,7 @@
             "Services for the address suggestions on the postal code which helps user to select sub-address efficienty.",
             "Engaged in team collaboration to identify client requirements, review project progress, and strategize the implementation approach."
           ],
-          "role": "Full stack developer",
+          "role": "SFCC Developer",
           "domain": "E-Commerce"
         }
       ]
